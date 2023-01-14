@@ -1,0 +1,146 @@
+.wrapper {
+    background-color: whitesmoke;
+    background: cover;
+    overflow: none;
+    width: 1200px;
+    height: 600px;
+    top: 500px;
+    margin-left: 50px;
+}
+
+.headingthree {
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    position: absolute;
+    left: 500px;
+}
+
+.snr {
+    position: absolute;
+    font-weight: 900;
+    font-size: medium;
+    top: 1100px;
+    
+}
+
+.principal {
+    position: absolute;
+    font-weight: 900;
+    top: 1150px;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    width: 200px;
+    text-align: left;
+}
+
+.apr {
+    position: absolute;
+    font-weight: 900;
+    top: 1150px;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-bottom: 5px;
+}
+
+.aprbutton {
+    width: 200px;
+    text-align: left;
+    height: 35px;
+    color: blue;
+    text-decoration-color: yellow;
+}
+
+.principaltwo {
+    position: absolute;
+    font-weight: 900;
+    top: 1300px;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+}
+
+.snrtwo {
+    position: absolute;
+    font-weight: 900;
+    font-size: medium;
+    top: 1250px;
+    
+}
+
+.buttontwo {
+    width: 200px;
+    text-align: left;
+}
+
+.aprtwo {
+    width: 200px;
+    position: absolute;
+    font-weight: 900;
+    top: 1300px;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-bottom: 5px;
+}
+
+
+.aprbtntwo {
+    width: 200px;
+    text-align: left;
+    height: 35px;
+    color: blue;
+    text-decoration-color: yellow;
+}
+
+.snrthree {
+    position: absolute;
+    font-weight: 900;
+    font-size: medium;
+    top: 1400px;
+    
+}
+
+.principalthree {
+    position: absolute;
+    font-weight: 900;
+    top: 1450px;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonthree {
+    width: 200px;
+    text-align: left;
+    height: 30px;
+}
+
+.aprthree {
+    width: 200px;
+    position: absolute;
+    font-weight: 900;
+    top: 1450px;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-bottom: 5px;
+}
+
+
+.aprbtnthree {
+    width: 200px;
+    text-align: left;
+    height: 35px;
+    color: blue;
+    text-decoration-color: yellow;
+}
+
